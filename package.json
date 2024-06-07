@@ -10,7 +10,7 @@
   "homepage": "https://vova3002.github.io/hw-js-library3/",
   "scripts": {
     "start": "parcel src/index.html",
-    "build": "parcel build src/index.html --public-url /js-hw-2/",
+    "build": "parcel build src/index.html --public-url /hw-js-library3/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
     "test": "echo \"Error: no test specified\" && exit 1"
